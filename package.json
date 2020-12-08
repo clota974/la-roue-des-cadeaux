@@ -1,0 +1,14 @@
+{
+  "name": "la-roue-des-cadeaux",
+  "version": "1.0.0",
+  "main": "electron.js",
+  "repository": "https://github.com/clota974/la-roue-des-cadeaux.git",
+  "author": "Killian <clota974@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "electron": "^11.0.3",
+    "qrcode": "^1.4.4",
+    "socket.io-client": "^3.0.3"
+  }
+}
